@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RegistroContactos</string>
+    <string name="registro_de_contactos">Registro de contactos</string>
+    <string name="nombre_completo">Nombre completo</string>
+    <string name="correo_electronico">Correo electrónico</string>
+    <string name="telefono">Teléfono</string>
+    <string name="tipo_de_contacto">Tipo de contacto</string>
+    <string name="personal">Personal</string>
+    <string name="trabajo">Trabajo</string>
+    <string name="familia">Familia</string>
+    <string name="enviar">Enviar</string>
+
+    <!-- Confirmacion -->
+    <string name="confirmar_datos">Confirmar datos</string>
+    <string name="volver">Volver</string>
+    <string name="confirmar">Confirmar</string>
+
+    <!-- Lista -->
+    <string name="contactos_registrados">Lista de contactos</string>
+    <string name="nuevo_contacto">Nuevo contacto</string>
+</resources>
